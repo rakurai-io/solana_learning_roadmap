@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2024-02-21T10:13:25.316Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="imoCAqCNw455j58cs5nv" version="23.1.5" type="device">
+  <diagram name="Page-1" id="pH22T7cm3jl19UEJV90L">
+    <mxGraphModel dx="1964" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="63" y="-50" width="49" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Basics of RUST&#xa;+&#xa;Intro to Solana development concepts" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="27" width="265" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;Smart contract development with RUST&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-85" y="134" width="345" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&#xa;&#xa;&#xa;&#xa;&#xa;Advanced smart contract concepts&#xa;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-74.5" y="226" width="324" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&#xa;&#xa;&#xa;&#xa;A full fledged realistic DApp project&#xa;&#xa;&#xa;&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-64.5" y="318" width="304" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="End" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="55" y="410" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5102040816326531;exitY=1;entryX=0.503030303030303;entryY=0;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.503030303030303;exitY=1;entryX=0.5035460992907801;entryY=0;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5035460992907801;exitY=1;entryX=0.5;entryY=0;" parent="1" source="4" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="5" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5037593984962406;entryY=0;" parent="1" source="6" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
